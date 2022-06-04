@@ -10,4 +10,4 @@ pycryptodome==3.14.1
 sqlparse==0.4.2
 tzdata==2021.5
 whitenoise==6.1.0
-fontawesome==5.15.4
+font-awesome==5.15.4
