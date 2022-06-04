@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-h-u%s=!37$*e3dz96npwu0%7ofe*yanfq2o2e@!)9mvp=nem2!
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://fragrance10.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['https://fragrance1.herokuapp.com/', '127.0.0.1']
 #ALLOWED_HOSTS = []
 #ALLOWED_HOSTS = ['localhost', '127.0.0.1','https://tm-sys-dashbobord.herokuapp.com/', config('SERVER', default='127.0.0.1')]
 
