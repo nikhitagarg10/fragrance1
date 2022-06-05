@@ -135,7 +135,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = "nikhita.garg2020@vitbhopal.ac.in"
-EMAIL_HOST_PASSWORD = "vit_Nik_10"
+EMAIL_HOST_PASSWORD = ""
 MEDIA_ROOT = BASE_DIR
 
 # Default primary key field type
